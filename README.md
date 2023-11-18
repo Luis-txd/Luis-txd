@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luis-txd&show_icons=true&theme=radical)
+<!-- [![MasterHeader](https://wall.alphacoders.com/big.php?i=1292797)](https://github.com/Luis-txd) -->
+
 <!--
 **Luis-txd/Luis-txd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
